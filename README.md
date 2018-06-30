@@ -1,0 +1,2 @@
+# pyrash
+AI plays TotalOverdose
